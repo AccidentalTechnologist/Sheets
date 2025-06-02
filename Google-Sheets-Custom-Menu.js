@@ -1,3 +1,4 @@
+// This will add a custom menu to your Google sheet
 function onOpen() {
   var ui = SpreadsheetApp.getUi();
   ui.createMenu('My Toolbox') // Name of the menu
